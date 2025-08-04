@@ -1,2 +1,5 @@
 # Self-Supervised-Learning-Survey
-This is a review of a 
+This repository provides a summary of SSL techniques from our paper review: ... 
+
+
+
